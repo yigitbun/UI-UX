@@ -24,6 +24,8 @@ https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-use
 
 Inhaltlich-H2
 ------
+
+
 Empathy Map
 .... Persona
 Nachhaltiger Konsum im Netz
