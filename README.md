@@ -1,4 +1,15 @@
-# UI-UX-Human-Centred-Design
+# UI-UX
+## User Interfaces, User Experience
+
+Basis: Ein Investor möchte gerne in das Thema Nachhaltigkeit investieren.
+
+Grundidee/Vision: Ich möchte ein Produkt, ein Service, eine App oder Website entwickeln, mit der ich den Menschen das Thema Nachhaltigkeit näher bringe und ihnen dabei helfe, Nachhaltigkeit im Alltag umzusetzen.
+
+Herausforderung: eine neue Idee (für eine Produkt, Funktionen, Anwendungsfälle) zu entwickeln und dafür erste Designs zu entwerfen.
+
+Mögliche Ergebnistypen: grobe Screens, Scribbles, Beschreibungen oder ein erster Klickdummy
+
+Aufgaben: Verständnis bilden, Design/User Research durchführen, Daten/Studien suchen, Ideen entwickeln, ggf. ein grobes Geschäftsmodell dazu, Ideen unfassbar machen.
 
 
 Materialen-H2
