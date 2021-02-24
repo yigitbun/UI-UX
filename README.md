@@ -1,25 +1,18 @@
    # UI-UX-Human-Centred-Design
 
-<h3>Materialen</h3>
-*Miro
-  *https://miro.com/app/
-    *deneme
-  *yanilma
-*Figma
-  *https://www.figma.com/
+
+Materialen-H2
+------
+Miro
+  https://miro.com/app/
+Empathy Map
+Figma
+  https://www.figma.com/
   
   
-<ul>
-    <li>https://miro.com/app/</li>
-    <li>Empathy Map</li>
-    <li>https://www.figma.com/</li>
-    <li></li>
-    <li></li>
-    
-</ul>
 
-
-<h3>Nützliche Links</h3>
+Nützliche Links-H2
+------
 <ul>
     <li>https://miro.com/app/board/o9J_lTYy4lg=/</li>
     <li>https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/</li>
