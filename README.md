@@ -2,7 +2,7 @@
 
 <h3>Materialen</h3>
 <ul>
-    <li>ttps://miro.com/app/</li>
+    <li>https://miro.com/app/</li>
     <li>Empathy Map</li>
     
 </ul>
