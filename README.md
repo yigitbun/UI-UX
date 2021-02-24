@@ -1,9 +1,20 @@
    # UI-UX-Human-Centred-Design
 
 <h3>Materialen</h3>
+*Miro
+  *https://miro.com/app/
+    *deneme
+  *yanilma
+*Figma
+  *https://www.figma.com/
+  
+  
 <ul>
     <li>https://miro.com/app/</li>
     <li>Empathy Map</li>
+    <li>https://www.figma.com/</li>
+    <li></li>
+    <li></li>
     
 </ul>
 
