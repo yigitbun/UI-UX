@@ -39,7 +39,10 @@ Inhaltlich-H2
 
 
 Empathy Map
-![alt text](Nachhaltigkeit.jpg)
+![Empathy Map](Nachhaltigkeit.jpg)
+
+Human Centered Design
+![Human Centered Design](hcd.jpg)
 
 .... Persona
 
