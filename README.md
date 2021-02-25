@@ -44,6 +44,15 @@ Empathy Map
 Human Centered Design
 ![Human Centered Design](hcd.jpg)
 
-.... Persona
+Persona
 
 Nachhaltiger Konsum im Netz
+
+Milieu
+  https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/umweltbewusstsein_2018_bf.pdf
+  (seite 15, 25 sind relevant
+  nachhaltigkeit verbreiten
+  kultur gruppe mileu nachhaltigkeit
+Limbic Map
+Leitfaden Umweltkommunikation
+
