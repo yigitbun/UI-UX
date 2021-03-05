@@ -65,3 +65,10 @@ Leitfaden Umweltkommunikation
 https://www.yumpu.com/de/document/read/39906201/leitfaden-umweltkommunikation
 
 
+
+
+Nützliche Links
+
+https://www.freecodecamp.org/news/designing-a-website-ui-with-prototyping/
+
+
